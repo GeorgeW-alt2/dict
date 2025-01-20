@@ -20,18 +20,7 @@ A lightweight spell checker that monitors your typing in real-time and alerts yo
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/realtime-spellchecker.git
-cd realtime-spellchecker
-```
-
-2. Create the dictionary file:
-```bash
-python create_dictionary.py
-```
-
-3. Compile the C++ program:
+1. Compile the C++ program:
 
 Using Visual Studio:
 ```bash
